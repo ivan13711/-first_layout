@@ -1,8 +1,8 @@
-body{
+.body{
   margin: 20px;
   font-family: verdana;
   font-size: 1rem;
-  line-height: 1,3szrem;
+  line-height: 1.3rem;
 }
 .nav_bar{
   border:2px solid #78C0E0;
@@ -36,8 +36,8 @@ body{
 }
 .headline{
 color:#3943B7;
-  font-size: 1.3rem;
-  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 1.5rem;
   text-align: center;
 margin-top: 10px;
 margin-bottom: 10px;
